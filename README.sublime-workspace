@@ -1,0 +1,235 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Event",
+				"EventMember"
+			],
+			[
+				"eent",
+				"Event"
+			],
+			[
+				"re",
+				"recognizer"
+			],
+			[
+				"s",
+				"sum"
+			],
+			[
+				"number",
+				"number2"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/focus/Python.py/dynamic_programming_knapsack_problem.py",
+		"/home/focus/Python.py/dynamic_programming_fibonacci.py",
+		"/home/focus/Python.py/Data_Science/First_day_15_09_2020.py",
+		"/home/focus/Python.py/arbitary_parameters.py",
+		"/home/focus/Python.py/Data_Science/average.py",
+		"/home/focus/Python.py/fizzbuzz.py",
+		"/home/focus/Python.py/Data_Science/django_practice/eventcalender/eventcalender/settings.py",
+		"/home/focus/Python.py/Data_Science/django_practice/eventcalender/calendarapp/views.py",
+		"/home/focus/Python.py/Data_Science/django_practice/eventcalender/eventcalender/views.py",
+		"/home/focus/Python.py/Data_Science/django_practice/eventcalender/eventcalender/urls.py",
+		"/home/focus/Python.py/Data_Science/django_practice/eventcalender/calendarapp/forms.py",
+		"/home/focus/Python.py/Data_Science/django_practice/eventcalender/calendarapp/admin.py",
+		"/home/focus/Python.py/Data_Science/django_practice/eventcalender/calendarapp/models.py",
+		"/home/focus/Python.py/Data_Science/django_practice/make_profile/myproject/urls.py",
+		"/home/focus/Python.py/Data_Science/django_practice/signup_login/user/templates/user/index.html",
+		"/home/focus/Python.py/Data_Science/django_practice/signup_login/signup_login/settings.py",
+		"/home/focus/Python.py/Data_Science/django_practice/signup_login/user/templates/user/email.html",
+		"/home/focus/Python.py/Data_Science/django_practice/signup_login/user/templates/user/login.html",
+		"/home/focus/Python.py/Data_Science/django_practice/signup_login/user/forms.py",
+		"/home/focus/Python.py/Data_Science/django_practice/signup_login/user/views.py",
+		"/home/focus/Python.py/Data_Science/django_practice/signup_login/user/urls.py",
+		"/home/focus/Python.py/Data_Science/django_practice/signup_login/signup_login/urls.py",
+		"/home/focus/Python.py/Data_Science/django_practice/signup_login/user/templates/user/register.html",
+		"/home/focus/Python.py/Data_Science/django_practice/myproject/profile_maker/urls.py",
+		"/home/focus/Python.py/Data_Science/django_practice/myproject/profile_maker/views.py",
+		"/home/focus/Python.py/Data_Science/django_practice/myproject/myproject/settings.py",
+		"/home/focus/Python.py/Data_Science/django_practice/myproject/myproject/urls.py",
+		"/home/focus/Python.py/Data_Science/django_practice/myproject/profile_maker/templates/profile_maker/error.html",
+		"/home/focus/Python.py/Data_Science/django_practice/myproject/profile_maker/templates/profile_maker/details.html",
+		"/home/focus/Python.py/Data_Science/django_practice/myproject/profile_maker/templates/profile_maker/create.html",
+		"/home/focus/Python.py/Data_Science/django_practice/myproject/profile_maker/forms.py",
+		"/home/focus/Python.py/Data_Science/django_practice/myproject/profile_maker/models.py",
+		"/home/focus/Python.py/Number_guessing_game.py",
+		"/home/focus/Python.py/Data_Science/django_practice/mysite1/polls/admin.py",
+		"/home/focus/Python.py/voice_assistant_that_helps_to_finish_assignments.py",
+		"/home/focus/Python.py/vir_assistant.py",
+		"/home/focus/Python.py/voice_rec.py",
+		"/home/focus/Python.py/Data_Science/django_practice/mysite1/polls/forms.py",
+		"/home/focus/Python.py/Data_Science/django_practice/mysite1/polls/views.py",
+		"/home/focus/Python.py/Data_Science/django_practice/mysite1/polls/urls.py",
+		"/home/focus/Python.py/Data_Science/django_practice/django_ecommerce/templates/base/footer.html",
+		"/home/focus/Python.py/Data_Science/django_practice/django_ecommerce/templates/contact/contact.html",
+		"/home/focus/Python.py/Data_Science/django_practice/django_ecommerce/templates/base/navbar.html",
+		"/home/focus/Python.py/Data_Science/django_practice/django_ecommerce/django_ecommerce/urls.py",
+		"/home/focus/Desktop/django_worrier/mysite/urls.py",
+		"/home/focus/Desktop/django_worrier/mysite/calc/views.py",
+		"/home/focus/Desktop/django_worrier/mysite/calc/urls.py",
+		"/var/www/html/process.php",
+		"/var/www/html/index.php",
+		"/home/focus/Python.py/PHP/index.php",
+		"/home/focus/Python.py/index.php"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "README.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 193.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
