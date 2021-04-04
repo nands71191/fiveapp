@@ -5,4 +5,4 @@ from codingsession.models import codingsession
 def codingsessionpage(request):
 	coding_session = codingsession.objects.all()
 	print(coding_session)
-	return render(request, template_name="codingsession/all.html", context={'coding_sessions' : coding_sessions})
+	return render(request, template_name="codingsession/all.html", context={'coding_sessions' : coding_session})
